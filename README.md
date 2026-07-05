@@ -27,7 +27,7 @@ The database consists of the following primary tables:
 
 ## How to Use
 1. Set up your database environment with the provided schema.
-2. Execute the scripts contained in the `queries.sql` file within your SQL editor.
+2. Execute the scripts contained in the `healthcare_data_analysis_queries.sql` file within your SQL editor.
 3. Review the generated results in the output console.
 
 ## Project Highlights
